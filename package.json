@@ -1,0 +1,15 @@
+{
+  "name": "discord-mushmc-bot",
+  "version": "1.0.0",
+  "description": "Bot de recrutamento do MushMC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.6",
+    "sqlite": "^4.2.2"
+  }
+}
